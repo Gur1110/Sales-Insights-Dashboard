@@ -4,7 +4,7 @@ A dynamic **Sales Insights Dashboard** built using **Power BI** and **SQL**, ana
 ---
 
 ## 🖼️ Dashboard Preview
-![Sales Insights Dashboard](Sales Db.png)
+![Sales Insights Dashboard](Sales%20Db.png)
 
 ---
 
